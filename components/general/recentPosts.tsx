@@ -1,3 +1,4 @@
+"use server";
 import React from "react";
 import PostCard from "@/components/general/postCard";
 import { Badge } from "@/components/ui/badge";
